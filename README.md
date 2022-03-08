@@ -13,7 +13,7 @@ Metadata Extractor Python Script
 ```
 ##
 
-## Image sources
+### Image sources
 
 ```
 > ianare
