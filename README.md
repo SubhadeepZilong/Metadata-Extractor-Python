@@ -13,10 +13,9 @@ Metadata Extractor Python Script
 ```
 ##
 
-## Authors
+## Image sources
 
 ```
-> SubhadeepZilong
 > ianare
 ```
 
