@@ -7,7 +7,7 @@ Metadata Extractor Python Script
 ## HOW TO USE
 
 ```
-- Add the images in "images" folder )
+- Add the images in "images" folder 
 - Run the python file "main.py"
 
 ```
